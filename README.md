@@ -1,5 +1,5 @@
-# urban-theme
+# Tuba's Visual Art Portfolio 🎨 🐈
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+Jekyll based minimalistic website for my Visual Arts portfolio
 
-Live-Demo: https://narkotyk.netlify.app
+[Click here to visit the live website!](https://tubakutluu.github.io/tubs.portfolio/)
