@@ -9,4 +9,3 @@ preview: holder.js/300x300?auto=yes
 
 Çalkantılı (Fluctuating), 2021, collage on sketchbook with marker. 
 The comments made about LGBTQIA+, especially nmlnm (non-men loving non-men), on how it is controversial are shown.
-
