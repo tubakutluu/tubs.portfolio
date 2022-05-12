@@ -1,3 +1,7 @@
+# Jekyll stuffs
 _site
 .sass-cache
 .jekyll-cache
+
+# macOS Finder
+**/.DS_Store
