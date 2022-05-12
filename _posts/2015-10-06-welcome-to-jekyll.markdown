@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-06 15:39:40
+title:  "Çalkantılı"
+date:   2021-10-01-01:59
 preview: holder.js/300x300?auto=yes
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Çalkantılı (Fluctuating), 2021, collage on sketchbook with marker. 
+The comments made about LGBTQIA+, especially nmlnm (non-men loving non-men), on how it is controversial are shown.
+
