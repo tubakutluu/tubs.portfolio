@@ -5,7 +5,7 @@ date:   2021-10-01-01:59
 preview: assets/calkantili.png
 ---
 
-center {
+.center {
 	margin: 0 auto;
 	display: block;
 }
