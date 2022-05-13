@@ -5,6 +5,11 @@ date:   2021-10-01-01:59
 preview: assets/calkantili.png
 ---
 
+center {
+	margin: 0 auto;
+	display: block;
+}
+
 <img src="{{site.baseurl}}/assets/calkantili.png" alt="Çalkantılı" class="center"/>
 
 Çalkantılı (Fluctuating), 2021, collage on sketchbook with marker. 
