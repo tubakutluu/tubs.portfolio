@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Çalkantılı"
+title:  "Çalkantılı (Fluctuating)"
 date:   2021-10-01-01:59
-preview: assets/calkantili.png
+preview: assets/fluctuating.png
 ---
 
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/calkantili.png" alt="Çalkantılı" class="center" /></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/fluctuating.png" alt="Çalkantılı (Fluctuating)" class="center"/></div>
 
 &nbsp;
 
