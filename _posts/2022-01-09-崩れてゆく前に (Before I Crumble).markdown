@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "崩れてゆく前に (Before I Crumble)"
+title:  "崩れてゆく前に\n(Before I Crumble)"
 date:   2022-01-09-01:59
 preview: assets/before-i-crumble.png
 ---
