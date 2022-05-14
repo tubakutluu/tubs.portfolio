@@ -1,4 +1,4 @@
-# Tuba's Visual Art Portfolio 🎨 🐈
+# Tuba's Visual Arts Portfolio 🎨 🐈
 
 Jekyll based minimalistic website for my Visual Arts portfolio
 
