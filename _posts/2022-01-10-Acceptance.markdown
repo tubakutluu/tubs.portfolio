@@ -9,7 +9,7 @@ preview: assets/acceptance.png
 
 &nbsp;
 
-崩れてゆく前に (Before I Crumble), 2022, pencil on sketchbook.
-Inspired by Liquid Smooth by Mitski. Liquidity of femininity and the reflection of trying to fit into the solid shapes is shown.
+Acceptance, 2022, marker on sketchbook.
+The suffering and growth during recovery is shown. It’s inspired by the start of my depression and eating disorder recovery.
 
 &nbsp;
