@@ -1,12 +1,13 @@
 # Site settings
-title: Your awesome title
+title: Tuba Kutlu's Visual Arts Portfolio
 email: your-email@domain.com
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username_full: tuba-kutlu-5ab204205
+linkedin_username_display: Tuba Kutlu
+github_username:  tubakutluu
 
 # Build settings
 markdown: kramdown
