@@ -5,7 +5,7 @@ date:   2022-01-09-01:59
 preview: assets/before-i-crumble.png
 ---
 
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/calkantili.png" alt="崩れてゆく前に (Before I Crumble)" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/before-i-crumble.png" alt="崩れてゆく前に (Before I Crumble)" class="center"/></div>
 
 &nbsp;
 
