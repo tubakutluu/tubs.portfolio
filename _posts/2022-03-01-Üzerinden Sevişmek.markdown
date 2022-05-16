@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Üzerinden Sevişmek"
-date:   2022-03-01:59
+date:   2022-03-01-00:59
 preview: assets/üzerinden-sevişmek.jpeg
 ---
 
