@@ -2,10 +2,10 @@
 layout: post
 title:  "Üzerinden Sevişmek"
 date:   2022-03-01:59
-preview: assets/üzerinden sevişmek.jpeg
+preview: assets/üzerinden-sevişmek.jpeg
 ---
 
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/üzerinden sevişmek.jpeg" alt="Üzerinden Sevişmek" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/üzerinden-sevişmek.jpeg" alt="Üzerinden Sevişmek" class="center"/></div>
 
 &nbsp;
 
