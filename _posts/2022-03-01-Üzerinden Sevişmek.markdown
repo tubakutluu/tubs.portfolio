@@ -92,9 +92,13 @@ Cemal Süreya
 ## Sketches for this piece and creation process:
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-1.jpeg" alt="Üzerinden Sevişmek Sketch 1" class="center"/></div>
+
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-2.jpeg" alt="Üzerinden Sevişmek Sketch 2" class="center"/></div>
+
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-3.jpeg" alt="Üzerinden Sevişmek Sketch 3" class="center"/></div>
+
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-4.jpeg" alt="Üzerinden Sevişmek Sketch 4" class="center"/></div>
+
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-5.jpeg" alt="Üzerinden Sevişmek Sketch 5" class="center"/></div>
 
 &nbsp;
