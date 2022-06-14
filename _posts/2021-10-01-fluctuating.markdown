@@ -2,7 +2,7 @@
 layout: post
 title:  "Çalkantılı (Fluctuating)"
 date:   2021-10-01-01:59
-preview: assets/fluctuating.png
+preview: assets/fluctuating-cover.jpg
 ---
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/fluctuating.png" alt="Çalkantılı (Fluctuating)" class="center"/></div>

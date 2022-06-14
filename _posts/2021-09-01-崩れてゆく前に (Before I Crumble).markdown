@@ -2,7 +2,7 @@
 layout: post
 title:  "崩れてゆく前に (Before I Crumble)"
 date:   2021-09-01-01:59
-preview: assets/before-i-crumble.png
+preview: assets/kuzurete-yuku-mae-ni-cover.jpg
 ---
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/before-i-crumble.png" alt="崩れてゆく前に (Before I Crumble)" class="center"/></div>
