@@ -1,9 +1,11 @@
 ---
 layout: page
-title: about
+title: About / Contact
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+Born in 2005, Turkish, lives and studies in Ankara Turkey.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+I use every kinds of materials that I can get my hands on as a way to express the concepts I have been obsessing over. 
+
+Being started education with basic art knowledge, I focus on ideas and practicality rather than aesthetic, this way I express the feeling and/or idea directly. 
