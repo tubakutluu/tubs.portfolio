@@ -7,10 +7,9 @@ preview: assets/uzerinden-sevismek-cover.jpg
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/üzerinden-sevişmek.jpeg" alt="Üzerinden Sevişmek" class="center"/></div>
 
-&nbsp;
-
 Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişmek", 2022, pencil on 35*50 sketchbook.
 
+&nbsp;
 
 **Üzerinden Sevişmek**
 
@@ -52,8 +51,9 @@ Gömülmüştür belleksiz halıların.
 
 Cemal Süreya
 
+&nbsp;
 
-*Sketches for this piece and creation process:*
+## Sketches for this piece and creation process:
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-1.jpeg" alt="Üzerinden Sevişmek Sketch 1" class="center"/></div>
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-2.jpeg" alt="Üzerinden Sevişmek Sketch 2" class="center"/></div>
