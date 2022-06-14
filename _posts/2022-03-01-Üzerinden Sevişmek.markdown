@@ -11,84 +11,87 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
 
 &nbsp;
 
->###### Üzerinden Sevişmek ######
+<details><summary>Üzerinden Sevişmek</summary>
+<p>
 
->Başkaları da var masada
-
->İleri geri konuşuluyor
-
-&nbsp;
-
->Ötedesin o adamın duldasında
-
->Gözkapaklarına bürünmüş adam
+Başkaları da var masada // İleri geri konuşuluyor
 
 &nbsp;
 
->Eli her an omuzunda
+Ötedesin o adamın duldasında
 
->Eğiliyor sigaranı yakıyor
-
-&nbsp;
-
->Teşekkürler sigara dumanı,
-
->Sağolasın o adam!
+Gözkapaklarına bürünmüş adam
 
 &nbsp;
 
->Onunla gelmişin buraya
+Eli her an omuzunda
 
->Yüzün yandan ve uzaklarda
-
-&nbsp;
-
->Niçin sevmiyorsun duvar kağıtlarını
-
->Hoş belki de seviyorsun
+Eğiliyor sigaranı yakıyor
 
 &nbsp;
 
->Herkes az buçuk sarhoş
+Teşekkürler sigara dumanı,
 
->Herkes bir şeyler söylüyor
-
-&nbsp;
-
->Ama yalnız ikimizin sözcükleri
-
->Sarmaşdolaş
-
-&nbsp;
->Üzerinden sevişmek, kadınım,
-
->Sigaranın, Asya’nın, omuzların,
+Sağolasın o adam!
 
 &nbsp;
 
->Üzerinden aile fotoğraflarının
+Onunla gelmişin buraya
 
->Eller nasıl duygandır nasıl yalın
-
-&nbsp;
-
->İki ses, iki bakış, gelişir nasıl
-
->Tek bir cümle gibi, sözlere karşın
+Yüzün yandan ve uzaklarda
 
 &nbsp;
 
->Sivri topuklar nasıl ortasına
+Niçin sevmiyorsun duvar kağıtlarını
 
->Gömülmüştür belleksiz halıların.
-
-&nbsp;
-
->Cemal Süreya
+Hoş belki de seviyorsun
 
 &nbsp;
 
-## Sketches for this piece and creation process:
+Herkes az buçuk sarhoş
+
+Herkes bir şeyler söylüyor
+
+&nbsp;
+
+Ama yalnız ikimizin sözcükleri
+
+Sarmaşdolaş
+
+&nbsp;
+
+Üzerinden sevişmek, kadınım,
+
+Sigaranın, Asya’nın, omuzların,
+
+&nbsp;
+
+Üzerinden aile fotoğraflarının
+
+Eller nasıl duygandır nasıl yalın
+
+&nbsp;
+
+İki ses, iki bakış, gelişir nasıl
+
+Tek bir cümle gibi, sözlere karşın
+
+&nbsp;
+
+Sivri topuklar nasıl ortasına
+
+Gömülmüştür belleksiz halıların.
+
+&nbsp;
+
+Cemal Süreya
+
+</p>
+</details> 
+
+&nbsp;
+
+### Sketches for this piece and creation process: ###
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-4.jpeg" alt="Üzerinden Sevişmek Sketch 1" class="center"/></div>
 
