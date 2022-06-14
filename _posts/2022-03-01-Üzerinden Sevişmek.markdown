@@ -16,75 +16,51 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
 Başkaları da var masada
 
 İleri geri konuşuluyor
-
 &nbsp;
-
 Ötedesin o adamın duldasında
 
 Gözkapaklarına bürünmüş adam
-
 &nbsp;
-
 Eli her an omuzunda
 
 Eğiliyor sigaranı yakıyor
-
 &nbsp;
-
 Teşekkürler sigara dumanı,
 
 Sağolasın o adam!
-
 &nbsp;
-
 Onunla gelmişin buraya
 
 Yüzün yandan ve uzaklarda
-
 &nbsp;
-
 Niçin sevmiyorsun duvar kağıtlarını
 
 Hoş belki de seviyorsun
-
 &nbsp;
-
 Herkes az buçuk sarhoş
 
 Herkes bir şeyler söylüyor
-
 &nbsp;
-
 Ama yalnız ikimizin sözcükleri
 
 Sarmaşdolaş
-
 &nbsp;
-
 Üzerinden sevişmek, kadınım,
 
 Sigaranın, Asya’nın, omuzların,
-
 &nbsp;
-
 Üzerinden aile fotoğraflarının
 
 Eller nasıl duygandır nasıl yalın
-
 &nbsp;
-
 İki ses, iki bakış, gelişir nasıl
 
 Tek bir cümle gibi, sözlere karşın
-
 &nbsp;
-
 Sivri topuklar nasıl ortasına
 
 Gömülmüştür belleksiz halıların.
-
 &nbsp;
-
 Cemal Süreya
 
 &nbsp;
