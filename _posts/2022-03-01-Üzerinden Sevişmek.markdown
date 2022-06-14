@@ -11,6 +11,16 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
 
 &nbsp;
 
+### Sketches for this piece and creation process: ###
+
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-4.jpeg" alt="Üzerinden Sevişmek Sketch 1" class="center"/></div>
+
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-1.jpeg" alt="Üzerinden Sevişmek Sketch 2" class="center"/></div>
+
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-2.jpeg" alt="Üzerinden Sevişmek Sketch 3" class="center"/></div>
+
+&nbsp;
+
 [^1]: Üzerinden Sevişmek 
     
     Başkaları da var masada 
@@ -86,15 +96,5 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
     &nbsp;
 
     Cemal Süreya
-
-&nbsp;
-
-### Sketches for this piece and creation process: ###
-
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-4.jpeg" alt="Üzerinden Sevişmek Sketch 1" class="center"/></div>
-
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-1.jpeg" alt="Üzerinden Sevişmek Sketch 2" class="center"/></div>
-
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-2.jpeg" alt="Üzerinden Sevişmek Sketch 3" class="center"/></div>
 
 &nbsp;
