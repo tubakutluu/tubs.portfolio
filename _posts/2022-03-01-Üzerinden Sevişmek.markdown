@@ -7,87 +7,85 @@ preview: assets/uzerinden-sevismek-cover.jpg
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/üzerinden-sevişmek.jpeg" alt="Üzerinden Sevişmek" class="center"/></div>
 
-Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişmek", 2022, pencil on 35*50 sketchbook.
+Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişmek"[^1], 2022, pencil on 35*50 sketchbook.
 
 &nbsp;
 
-<details><summary>Üzerinden Sevişmek</summary>
-<p>
+[^1]: Üzerinden Sevişmek 
+    
+    Başkaları da var masada 
 
-Başkaları da var masada // İleri geri konuşuluyor
+    İleri geri konuşuluyor
+    
+    &nbsp;
 
-&nbsp;
+    Ötedesin o adamın duldasında
+    
+    Gözkapaklarına bürünmüş adam
+    
+    &nbsp;
 
-Ötedesin o adamın duldasında
+    Eli her an omuzunda
 
-Gözkapaklarına bürünmüş adam
+    Eğiliyor sigaranı yakıyor
+    
+    &nbsp;
 
-&nbsp;
+    Teşekkürler sigara dumanı,
 
-Eli her an omuzunda
+    Sağolasın o adam!
+    
+    &nbsp; 
+    
+    Onunla gelmişin buraya
 
-Eğiliyor sigaranı yakıyor
+    Yüzün yandan ve uzaklarda
 
-&nbsp;
+    &nbsp;
 
-Teşekkürler sigara dumanı,
+    Niçin sevmiyorsun duvar kağıtlarını
 
-Sağolasın o adam!
+    Hoş belki de seviyorsun
 
-&nbsp;
+    &nbsp;
 
-Onunla gelmişin buraya
+    Herkes az buçuk sarhoş
 
-Yüzün yandan ve uzaklarda
+    Herkes bir şeyler söylüyor
 
-&nbsp;
+    &nbsp;
 
-Niçin sevmiyorsun duvar kağıtlarını
+    Ama yalnız ikimizin sözcükleri
 
-Hoş belki de seviyorsun
+    Sarmaşdolaş
 
-&nbsp;
+    &nbsp;
 
-Herkes az buçuk sarhoş
+    Üzerinden sevişmek, kadınım,
 
-Herkes bir şeyler söylüyor
+    Sigaranın, Asya’nın, omuzların,
 
-&nbsp;
+    &nbsp;
 
-Ama yalnız ikimizin sözcükleri
+    Üzerinden aile fotoğraflarının
 
-Sarmaşdolaş
+    Eller nasıl duygandır nasıl yalın
 
-&nbsp;
+    &nbsp;
 
-Üzerinden sevişmek, kadınım,
+    İki ses, iki bakış, gelişir nasıl
 
-Sigaranın, Asya’nın, omuzların,
+    Tek bir cümle gibi, sözlere karşın
 
-&nbsp;
+    &nbsp;
 
-Üzerinden aile fotoğraflarının
+    Sivri topuklar nasıl ortasına
 
-Eller nasıl duygandır nasıl yalın
+    Gömülmüştür belleksiz halıların.
 
-&nbsp;
+    &nbsp;
 
-İki ses, iki bakış, gelişir nasıl
-
-Tek bir cümle gibi, sözlere karşın
-
-&nbsp;
-
-Sivri topuklar nasıl ortasına
-
-Gömülmüştür belleksiz halıların.
-
-&nbsp;
-
-Cemal Süreya
-
-</p>
-</details> 
+    Cemal Süreya
 
 &nbsp;
 
