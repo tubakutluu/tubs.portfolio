@@ -16,7 +16,9 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
 Başkaları da var masada
 
 İleri geri konuşuluyor
+
 &nbsp;
+
 Ötedesin o adamın duldasında
 
 Gözkapaklarına bürünmüş adam
