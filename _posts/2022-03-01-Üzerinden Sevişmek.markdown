@@ -11,59 +11,80 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
 
 &nbsp;
 
-**Üzerinden Sevişmek**
+>###### Üzerinden Sevişmek ######
 
-Başkaları da var masada
+>Başkaları da var masada
 
-İleri geri konuşuluyor
+>İleri geri konuşuluyor
 
 &nbsp;
 
-Ötedesin o adamın duldasında
+>Ötedesin o adamın duldasında
 
-Gözkapaklarına bürünmüş adam
-&nbsp;
-Eli her an omuzunda
+>Gözkapaklarına bürünmüş adam
 
-Eğiliyor sigaranı yakıyor
 &nbsp;
-Teşekkürler sigara dumanı,
 
-Sağolasın o adam!
-&nbsp;
-Onunla gelmişin buraya
+>Eli her an omuzunda
 
-Yüzün yandan ve uzaklarda
-&nbsp;
-Niçin sevmiyorsun duvar kağıtlarını
+>Eğiliyor sigaranı yakıyor
 
-Hoş belki de seviyorsun
 &nbsp;
-Herkes az buçuk sarhoş
 
-Herkes bir şeyler söylüyor
-&nbsp;
-Ama yalnız ikimizin sözcükleri
+>Teşekkürler sigara dumanı,
 
-Sarmaşdolaş
-&nbsp;
-Üzerinden sevişmek, kadınım,
+>Sağolasın o adam!
 
-Sigaranın, Asya’nın, omuzların,
 &nbsp;
-Üzerinden aile fotoğraflarının
 
-Eller nasıl duygandır nasıl yalın
-&nbsp;
-İki ses, iki bakış, gelişir nasıl
+>Onunla gelmişin buraya
 
-Tek bir cümle gibi, sözlere karşın
-&nbsp;
-Sivri topuklar nasıl ortasına
+>Yüzün yandan ve uzaklarda
 
-Gömülmüştür belleksiz halıların.
 &nbsp;
-Cemal Süreya
+
+>Niçin sevmiyorsun duvar kağıtlarını
+
+>Hoş belki de seviyorsun
+
+&nbsp;
+
+>Herkes az buçuk sarhoş
+
+>Herkes bir şeyler söylüyor
+
+&nbsp;
+
+>Ama yalnız ikimizin sözcükleri
+
+>Sarmaşdolaş
+
+&nbsp;
+>Üzerinden sevişmek, kadınım,
+
+>Sigaranın, Asya’nın, omuzların,
+
+&nbsp;
+
+>Üzerinden aile fotoğraflarının
+
+>Eller nasıl duygandır nasıl yalın
+
+&nbsp;
+
+>İki ses, iki bakış, gelişir nasıl
+
+>Tek bir cümle gibi, sözlere karşın
+
+&nbsp;
+
+>Sivri topuklar nasıl ortasına
+
+>Gömülmüştür belleksiz halıların.
+
+&nbsp;
+
+>Cemal Süreya
 
 &nbsp;
 
