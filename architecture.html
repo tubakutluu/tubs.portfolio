@@ -6,7 +6,7 @@ layout: default
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
-                <a href="{{ post.url | prepend: site.baseurl }}">
+                <a href="{{ site.baseurl }}">
                     <img src="{{ site.baseurl/post.preview }}">
                 </a>
                 <div class="post-title">{{ post.title }}</div>
