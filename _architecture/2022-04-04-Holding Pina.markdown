@@ -2,7 +2,7 @@
 layout: post
 title:  "Holding Pina"
 date:   2022-04-04-23:59
-preview: assets/holding-pina-cover.jpeg
+preview: holding-pina-cover.jpeg
 ---
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/holding-pina-1.jpeg" alt="Holding Pina Pose 1" class="center"/></div>

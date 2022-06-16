@@ -2,7 +2,7 @@
 layout: post
 title:  "Acceptance"
 date:   2021-10-01-01:59
-preview: assets/acceptance-cover.jpg
+preview: acceptance-cover.jpg
 ---
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/acceptance.png" alt="Acceptance" class="center"/></div>

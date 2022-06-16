@@ -2,7 +2,7 @@
 layout: post
 title:  "Inner Child"
 date:   2021-01-11-01:59
-preview: assets/inner-child-cover.jpg
+preview: inner-child-cover.jpg
 ---
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/inner-child.jpg" alt="Inner Child" class="center"/></div>
