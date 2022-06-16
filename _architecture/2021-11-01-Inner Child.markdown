@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inner Child"
-date:   2021-01-11-01:59
+date:   2026-01-11-01:59
 preview: assets/inner-child-cover.jpg
 ---
 
