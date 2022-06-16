@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Holding Pina"
+title:  "Pose 1
 date:   2022-04-04-23:59
-preview: assets/holding-pina-cover.jpeg
+preview: assets/pose01-cover.jpg
 ---
 
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/holding-pina-1.jpeg" alt="Holding Pina Pose 1" class="center"/></div>
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/holding-pina-2.jpeg" alt="Holding Pina Pose 2" class="center"/></div>
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/holding-pina-3.jpeg" alt="Holding Pina Pose 3" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0101.jpg" alt="Pose 1.1" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0102.jpg" alt="Pose 1.2" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0103.jpg" alt="Pose 1.3" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0104.jpg" alt="Pose 1.4" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0105.jpg" alt="Pose 1.5" class="center"/></div>
 
 &nbsp;
 
@@ -15,4 +17,10 @@ preview: assets/holding-pina-cover.jpeg
 
 &nbsp;
 
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/holding-pina-1.jpeg" alt="Holding Pina Pose 1" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0106.jpeg" alt="Pose 1 Inspiration" class="center"/></div>
+
+&nbsp;
+
+## Sketches for this piece and creation process: ##
+
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0107.png" alt="Pose 1 Sketches" class="center"/></div>
