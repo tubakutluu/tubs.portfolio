@@ -20,81 +20,82 @@ Character design based on Turkish poet Cemal Süreya's poem "Üzerinden Sevişme
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/uzsev-2.jpeg" alt="Üzerinden Sevişmek Sketch 3" class="center"/></div>
 
 &nbsp;
+<center>
+<h2>Üzerinden Sevişmek</h2>
 
-[^1]: Üzerinden Sevişmek 
-    
-    Başkaları da var masada 
+Başkaları da var masada
 
-    İleri geri konuşuluyor
-    
-    &nbsp;
+İleri geri konuşuluyor
 
-    Ötedesin o adamın duldasında
-    
-    Gözkapaklarına bürünmüş adam
-    
-    &nbsp;
+&nbsp;
 
-    Eli her an omuzunda
+Ötedesin o adamın duldasında
 
-    Eğiliyor sigaranı yakıyor
-    
-    &nbsp;
+Gözkapaklarına bürünmüş adam
 
-    Teşekkürler sigara dumanı,
+&nbsp;
 
-    Sağolasın o adam!
-    
-    &nbsp; 
-    
-    Onunla gelmişin buraya
+Eli her an omuzunda
 
-    Yüzün yandan ve uzaklarda
+Eğiliyor sigaranı yakıyor
 
-    &nbsp;
+&nbsp;
 
-    Niçin sevmiyorsun duvar kağıtlarını
+Teşekkürler sigara dumanı,
 
-    Hoş belki de seviyorsun
+Sağolasın o adam!
 
-    &nbsp;
+&nbsp;
 
-    Herkes az buçuk sarhoş
+Onunla gelmişin buraya
 
-    Herkes bir şeyler söylüyor
+Yüzün yandan ve uzaklarda
 
-    &nbsp;
+&nbsp;
 
-    Ama yalnız ikimizin sözcükleri
+Niçin sevmiyorsun duvar kağıtlarını
 
-    Sarmaşdolaş
+Hoş belki de seviyorsun
 
-    &nbsp;
+&nbsp;
 
-    Üzerinden sevişmek, kadınım,
+Herkes az buçuk sarhoş
 
-    Sigaranın, Asya’nın, omuzların,
+Herkes bir şeyler söylüyor
 
-    &nbsp;
+&nbsp;
 
-    Üzerinden aile fotoğraflarının
+Ama yalnız ikimizin sözcükleri
 
-    Eller nasıl duygandır nasıl yalın
+Sarmaşdolaş
 
-    &nbsp;
+&nbsp;
 
-    İki ses, iki bakış, gelişir nasıl
+Üzerinden sevişmek, kadınım,
 
-    Tek bir cümle gibi, sözlere karşın
+Sigaranın, Asya’nın, omuzların,
 
-    &nbsp;
+&nbsp;
 
-    Sivri topuklar nasıl ortasına
+Üzerinden aile fotoğraflarının
 
-    Gömülmüştür belleksiz halıların.
+Eller nasıl duygandır nasıl yalın
 
-    &nbsp;
+&nbsp;
 
-    Cemal Süreya
+İki ses, iki bakış, gelişir nasıl
+
+Tek bir cümle gibi, sözlere karşın
+
+&nbsp;
+
+Sivri topuklar nasıl ortasına
+
+Gömülmüştür belleksiz halıların.
+
+&nbsp;
+</center>
+
+<div style="text-align: right"> <b> Cemal Süreyya </b> </div>
 
 &nbsp;
