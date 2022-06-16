@@ -13,3 +13,7 @@ github_username:  tubakutluu
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  architecture:
+    output: true
