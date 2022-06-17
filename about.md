@@ -4,8 +4,10 @@ title: About / Contact
 permalink: /about/
 ---
 
-Born in 2005, Turkish, lives and studies in Ankara Turkey.
+I am currently in Ankara Turkey. I study International Baccaeuleratte Diploma Programme in Zafer College, and will graduate on 2023 June. 
 
-I use every kinds of materials that I can get my hands on as a way to express the concepts I have been obsessing over. 
+I was born in 2005, and couldn't escape the urge to create since then. I am the eldest daughter of two architects, who have a massive effect on my ideas and perspective to art. 
 
-Being started education with basic art knowledge, I focus on ideas and practicality rather than aesthetic, this way I express the feeling and/or idea directly. 
+Being started education with basic art knowledge, I try to express myself with any material I have my hands on. From early years of my life, I was taught the amazingness of creation, and all sides of being and living as an architect. Fortunately I saw how it suits my way of expression, so all the negative sides I witnessed did not discourage me from dreaming to pursue this career. 
+
+I am interested in lots of things, like a normal person, like music, cinema, architecture, politics, cultures, languages etc. With all these passions in my hand, I knead the sorrow or joy my life has brought to me with  to make a use out of them. 
