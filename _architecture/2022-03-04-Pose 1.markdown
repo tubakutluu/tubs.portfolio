@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pose 1
+title:  "Pose 1"
 date:   2022-04-04-23:59
 preview: assets/pose01-cover.jpg
 ---
