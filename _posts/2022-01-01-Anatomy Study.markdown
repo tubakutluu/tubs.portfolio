@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Inner Child"
-date:   2021-01-11-01:59
-preview: assets/inner-child-cover.jpg
+title:  "Anatomy Study"
+date:   2022-04-04-11:59
+preview: assets/anatomy-study-cover.jpg
 ---
 
-<div style="text-align: center"><img src="{{site.baseurl}}/assets/inner-child.jpg" alt="Inner Child" class="center"/></div>
+<div style="text-align: center"><img src="{{site.baseurl}}/assets/anatomy-study.jpg" alt="Anatomy Study" class="center"/></div>
 
 &nbsp;
 
-Inner Child, 2022, oil pastel on carton with cutout.
-The space that knowing you will never have the childhood you were supposed to have is shown.
+2022, red pencil, highlighter and lineart pen on sketchbook.
 
 &nbsp;
