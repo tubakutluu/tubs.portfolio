@@ -2,7 +2,7 @@
 layout: post
 title:  "Pose 1"
 date:   2022-04-04-23:59
-preview: assets/pose01-cover.jpg
+preview: {{site.baseurl}}assets/pose01-cover.jpg
 ---
 
 <div style="text-align: center"><img src="{{site.baseurl}}/assets/pose0101.jpg" alt="Pose 1.1" class="center"/></div>
