@@ -18,3 +18,5 @@ permalink: pretty
 collections:
   architecture:
     output: true
+  illustrations:
+  output: true
